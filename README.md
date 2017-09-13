@@ -11,6 +11,8 @@ Code for ICIP2017 accepted paper "PERSON RE-IDENTIFICATION WITH DEEP DENSE FEATU
     2.python2 packages: numpy, scipy, Pillow, scikit-learn, protobuf
 
 2. run the scripts
+
+
     sudo chmod a+x ./ -R
     ./result_{dataset}.sh
    
