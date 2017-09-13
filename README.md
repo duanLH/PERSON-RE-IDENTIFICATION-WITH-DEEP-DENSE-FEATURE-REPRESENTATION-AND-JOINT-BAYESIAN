@@ -14,5 +14,6 @@ Code for ICIP2017 accepted paper "PERSON RE-IDENTIFICATION WITH DEEP DENSE FEATU
 
 
     sudo chmod a+x ./ -R
+    
     ./result_{dataset}.sh
    
